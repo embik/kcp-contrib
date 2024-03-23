@@ -5,7 +5,7 @@ The repository contains the list of demo code, slides and other materials used i
 - [KCP ML shop](./20240321-kubecon-paris/) - KCP Service owner, provider and user
 demo. 
     - [Youtube](https://www.youtube.com/watch?v=7op_r9R0fCo)
-    - [Slides](./20240321-kubecon-paris/KubeCon 2024 - Paris - Why Kubernetes Is Inappropriate for Platforms and How to Make It Better.pdf)
+    - [Slides](./20240321-kubecon-paris/KubeCon\ 2024\ -\ Paris\ -\ Why\ Kubernetes\ Is\ Inappropriate\ for\ Platforms\ and\ How\ to\ Make\ It\ Better.pdf)
 
 
 ## Other content
